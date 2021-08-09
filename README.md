@@ -1,4 +1,4 @@
-## 18F Open Source Style Guide
+
 
 
 This guide helps people document code repositories so that they're easy to use and understand. In each section, we outline our strategies for making sure that our code repositories are clear, accessible, and user-friendly.
